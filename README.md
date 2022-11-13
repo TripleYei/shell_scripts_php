@@ -3,6 +3,7 @@
 
 # Uso de los scripts
 
+Automatización de comandos en gnu/linux y uso de alguna herramienta.
 ~~~~
 php nombre_script.php
 ~~~~
