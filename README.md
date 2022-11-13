@@ -4,7 +4,7 @@
 # Uso de los scripts
 
 ~~~~
-php nombre_script 
+php nombre_script.php
 ~~~~
 
 # Ejemplos
