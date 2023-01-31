@@ -12,6 +12,7 @@ php nombre_script.php
 
 ~~~~
 whois --> apt-get install whois o usar una distribución gnu/linux tenga instalada la herramienta.
+curl-> apt-get install curl o usar una distribución gnu/linux tenga instalada la herramienta.
 gathering --> Se usa la herramienta dmitry apt-get install dmitry o usar una dstribución que tenga instalada la herramienta.
 ~~~~
 # Ejemplos
